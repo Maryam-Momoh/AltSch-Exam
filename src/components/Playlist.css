@@ -1,0 +1,26 @@
+.fa-music{
+    color: black;
+    font-size: 6rem;
+    padding: 2px;
+    margin-left: 20px;
+    border: 1px solid rgba(225, 225, 225, 0.3);
+    background: rgba(225, 225, 225, 0.2);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px)
+}
+
+h1{
+    padding: 34px;
+    max-width: 50%; 
+    border: 1px solid rgba(225, 225, 225, 0.3);
+    background: rgba(225, 225, 225, 0.2);
+    
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px)
+}
+
+.playlist-container{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
