@@ -9,25 +9,25 @@
      
   }
   
-  .navbar{
+.navbar{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     
   }
   
-  .nav-items{
+.nav-items{
    margin: 30px;
     list-style: none;
   }
   
-  .nav-links{
+.nav-links{
     text-decoration: none;
     color:black ;
     font-size: 1.2rem;
   }
   
-  p{
+p{
     position: absolute;
     left: 50%;
     color: black;
