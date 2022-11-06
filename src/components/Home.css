@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    background-color: #fff;
+    background-color:#050505 ;
     background-image: url(file:///C:/Users/PC/Downloads/undraw_compose_music_re_wpiw.svg);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -23,14 +23,14 @@
   
 .nav-links{
     text-decoration: none;
-    color:black ;
+    color:#fff;
     font-size: 1.2rem;
   }
   
 p{
     position: absolute;
     left: 50%;
-    color: black;
+    color: #fff;
     font-size: 6.7rem;
     width: 100%;
   }
